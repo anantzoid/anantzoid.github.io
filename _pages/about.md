@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal website of Anant Gupta"
+title: "Anant Gupta"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Anant Gupta
------------
+Note: The following is outdated.
 
 #### MS Computer Science candidate at Courant Institute
 
