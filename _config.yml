@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Anant Gupta"
 title_separator          : "-"
 name                     : &name "Anant"
 description              : &description "Personal Website"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/anantzoid"
+  linkedin         : "anantzoid"
   orcid            : 
   pinterest        :
   soundcloud       :
