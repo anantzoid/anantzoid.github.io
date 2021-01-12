@@ -10,12 +10,8 @@ redirect_from:
 
 Note: The following is outdated.
 
-#### MS Computer Science candidate at Courant Institute
-
 * * *
 
-ag4508@nyu.edu  
-Github:  [anantzoid](https://github.com/anantzoid)
 
 I'm a Masters student at NYU with a focus on Deep Learning.  
 I interned at [Imagen](https://imagen.ai) during Summer 2018 with [Christian Ledig](https://scholar.google.com/citations?user=oKhGz8UAAAAJ&hl=en) and [Sumit Chopra](https://scholar.google.com/citations?user=ETU-ePAAAAAJ&hl=en).  
