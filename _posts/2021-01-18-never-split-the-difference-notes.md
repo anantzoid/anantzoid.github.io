@@ -3,8 +3,9 @@ title: 'Notes from Never Split the Difference'
 date: 2021-01-18
 permalink: /posts/2021/01/never-split-the-difference-notes/
 tags:
-	- books
-	- personal
+  - cool posts
+  - category1
+  - category2
 ---
 
 Recently I read the book "Never Split the Difference", a book on "hostage negotiation" by former CBI terrorist negotiator Chris Voss, but lessons that can be applied to just about any converation in life to: 
