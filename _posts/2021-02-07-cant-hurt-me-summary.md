@@ -1,10 +1,11 @@
 ---
-title: 'Notes from Can't Hurt me'
+title: 'Notes from Cant Hurt me'
 date: 2021-02-07
 permalink: /posts/2021/02/cant-hurt-me-notes/
 tags:
   - books
 ---
+
 
 I switched jobs in January of 2021 and I'd say it was smooth transition. I got plenty of downtime and alone time in my apartment to focus on myself. I completed this book in 10 days, 1 chapter a day, which was an mini achievement for me.
 
